@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/module/module.iml" filepath="$PROJECT_DIR$/module/module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduleGradle.iml" filepath="$PROJECT_DIR$/moduleGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleGradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleGradle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleGradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleGradle.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/teme-lab-SerbanEduard.iml" filepath="$PROJECT_DIR$/.idea/teme-lab-SerbanEduard.iml" />
     </modules>
   </component>
