@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="moduleGradle:main" external.linked.project.path="$MODULE_DIR$/../../moduleGradle" external.root.project.path="$MODULE_DIR$/../../moduleGradle" external.system.id="GRADLE" external.system.module.group="org.example" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../moduleGradle/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../moduleGradle/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../moduleGradle/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../moduleGradle/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:11.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:1.3.9" level="project" />
+  </component>
+</module>
